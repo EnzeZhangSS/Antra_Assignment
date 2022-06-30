@@ -1,0 +1,16 @@
+D:\Antra\C#\Antra Assignments\Most Frequent Number\bin\Debug\net5.0\Most Frequent Number.exe
+D:\Antra\C#\Antra Assignments\Most Frequent Number\bin\Debug\net5.0\Most Frequent Number.deps.json
+D:\Antra\C#\Antra Assignments\Most Frequent Number\bin\Debug\net5.0\Most Frequent Number.runtimeconfig.json
+D:\Antra\C#\Antra Assignments\Most Frequent Number\bin\Debug\net5.0\Most Frequent Number.runtimeconfig.dev.json
+D:\Antra\C#\Antra Assignments\Most Frequent Number\bin\Debug\net5.0\Most Frequent Number.dll
+D:\Antra\C#\Antra Assignments\Most Frequent Number\bin\Debug\net5.0\ref\Most Frequent Number.dll
+D:\Antra\C#\Antra Assignments\Most Frequent Number\bin\Debug\net5.0\Most Frequent Number.pdb
+D:\Antra\C#\Antra Assignments\Most Frequent Number\obj\Debug\net5.0\Most Frequent Number.csproj.AssemblyReference.cache
+D:\Antra\C#\Antra Assignments\Most Frequent Number\obj\Debug\net5.0\Most Frequent Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\C#\Antra Assignments\Most Frequent Number\obj\Debug\net5.0\Most Frequent Number.AssemblyInfoInputs.cache
+D:\Antra\C#\Antra Assignments\Most Frequent Number\obj\Debug\net5.0\Most Frequent Number.AssemblyInfo.cs
+D:\Antra\C#\Antra Assignments\Most Frequent Number\obj\Debug\net5.0\Most Frequent Number.csproj.CoreCompileInputs.cache
+D:\Antra\C#\Antra Assignments\Most Frequent Number\obj\Debug\net5.0\Most Frequent Number.dll
+D:\Antra\C#\Antra Assignments\Most Frequent Number\obj\Debug\net5.0\ref\Most Frequent Number.dll
+D:\Antra\C#\Antra Assignments\Most Frequent Number\obj\Debug\net5.0\Most Frequent Number.pdb
+D:\Antra\C#\Antra Assignments\Most Frequent Number\obj\Debug\net5.0\Most Frequent Number.genruntimeconfig.cache
