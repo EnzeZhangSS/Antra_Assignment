@@ -1,0 +1,16 @@
+D:\Antra\C#\Antra Assignments\FizzBuzz\bin\Debug\net5.0\Exercise03.exe
+D:\Antra\C#\Antra Assignments\FizzBuzz\bin\Debug\net5.0\Exercise03.deps.json
+D:\Antra\C#\Antra Assignments\FizzBuzz\bin\Debug\net5.0\Exercise03.runtimeconfig.json
+D:\Antra\C#\Antra Assignments\FizzBuzz\bin\Debug\net5.0\Exercise03.runtimeconfig.dev.json
+D:\Antra\C#\Antra Assignments\FizzBuzz\bin\Debug\net5.0\Exercise03.dll
+D:\Antra\C#\Antra Assignments\FizzBuzz\bin\Debug\net5.0\ref\Exercise03.dll
+D:\Antra\C#\Antra Assignments\FizzBuzz\bin\Debug\net5.0\Exercise03.pdb
+D:\Antra\C#\Antra Assignments\FizzBuzz\obj\Debug\net5.0\Exercise03.csproj.AssemblyReference.cache
+D:\Antra\C#\Antra Assignments\FizzBuzz\obj\Debug\net5.0\Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\C#\Antra Assignments\FizzBuzz\obj\Debug\net5.0\Exercise03.AssemblyInfoInputs.cache
+D:\Antra\C#\Antra Assignments\FizzBuzz\obj\Debug\net5.0\Exercise03.AssemblyInfo.cs
+D:\Antra\C#\Antra Assignments\FizzBuzz\obj\Debug\net5.0\Exercise03.csproj.CoreCompileInputs.cache
+D:\Antra\C#\Antra Assignments\FizzBuzz\obj\Debug\net5.0\Exercise03.dll
+D:\Antra\C#\Antra Assignments\FizzBuzz\obj\Debug\net5.0\ref\Exercise03.dll
+D:\Antra\C#\Antra Assignments\FizzBuzz\obj\Debug\net5.0\Exercise03.pdb
+D:\Antra\C#\Antra Assignments\FizzBuzz\obj\Debug\net5.0\Exercise03.genruntimeconfig.cache

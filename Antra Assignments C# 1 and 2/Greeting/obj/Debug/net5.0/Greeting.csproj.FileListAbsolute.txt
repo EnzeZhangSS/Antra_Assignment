@@ -1,0 +1,15 @@
+D:\Antra\C#\Antra Assignments\Greeting\bin\Debug\net5.0\Greeting.exe
+D:\Antra\C#\Antra Assignments\Greeting\bin\Debug\net5.0\Greeting.deps.json
+D:\Antra\C#\Antra Assignments\Greeting\bin\Debug\net5.0\Greeting.runtimeconfig.json
+D:\Antra\C#\Antra Assignments\Greeting\bin\Debug\net5.0\Greeting.runtimeconfig.dev.json
+D:\Antra\C#\Antra Assignments\Greeting\bin\Debug\net5.0\Greeting.dll
+D:\Antra\C#\Antra Assignments\Greeting\bin\Debug\net5.0\ref\Greeting.dll
+D:\Antra\C#\Antra Assignments\Greeting\bin\Debug\net5.0\Greeting.pdb
+D:\Antra\C#\Antra Assignments\Greeting\obj\Debug\net5.0\Greeting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\C#\Antra Assignments\Greeting\obj\Debug\net5.0\Greeting.AssemblyInfoInputs.cache
+D:\Antra\C#\Antra Assignments\Greeting\obj\Debug\net5.0\Greeting.AssemblyInfo.cs
+D:\Antra\C#\Antra Assignments\Greeting\obj\Debug\net5.0\Greeting.csproj.CoreCompileInputs.cache
+D:\Antra\C#\Antra Assignments\Greeting\obj\Debug\net5.0\Greeting.dll
+D:\Antra\C#\Antra Assignments\Greeting\obj\Debug\net5.0\ref\Greeting.dll
+D:\Antra\C#\Antra Assignments\Greeting\obj\Debug\net5.0\Greeting.pdb
+D:\Antra\C#\Antra Assignments\Greeting\obj\Debug\net5.0\Greeting.genruntimeconfig.cache

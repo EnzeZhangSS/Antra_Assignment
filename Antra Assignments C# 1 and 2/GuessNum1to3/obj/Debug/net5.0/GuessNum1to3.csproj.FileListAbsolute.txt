@@ -1,0 +1,15 @@
+D:\Antra\C#\Antra Assignments\GuessNum1to3\obj\Debug\net5.0\GuessNum1to3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\C#\Antra Assignments\GuessNum1to3\obj\Debug\net5.0\GuessNum1to3.AssemblyInfoInputs.cache
+D:\Antra\C#\Antra Assignments\GuessNum1to3\obj\Debug\net5.0\GuessNum1to3.AssemblyInfo.cs
+D:\Antra\C#\Antra Assignments\GuessNum1to3\obj\Debug\net5.0\GuessNum1to3.csproj.CoreCompileInputs.cache
+D:\Antra\C#\Antra Assignments\GuessNum1to3\bin\Debug\net5.0\GuessNum1to3.exe
+D:\Antra\C#\Antra Assignments\GuessNum1to3\bin\Debug\net5.0\GuessNum1to3.deps.json
+D:\Antra\C#\Antra Assignments\GuessNum1to3\bin\Debug\net5.0\GuessNum1to3.runtimeconfig.json
+D:\Antra\C#\Antra Assignments\GuessNum1to3\bin\Debug\net5.0\GuessNum1to3.runtimeconfig.dev.json
+D:\Antra\C#\Antra Assignments\GuessNum1to3\bin\Debug\net5.0\GuessNum1to3.dll
+D:\Antra\C#\Antra Assignments\GuessNum1to3\bin\Debug\net5.0\ref\GuessNum1to3.dll
+D:\Antra\C#\Antra Assignments\GuessNum1to3\bin\Debug\net5.0\GuessNum1to3.pdb
+D:\Antra\C#\Antra Assignments\GuessNum1to3\obj\Debug\net5.0\GuessNum1to3.dll
+D:\Antra\C#\Antra Assignments\GuessNum1to3\obj\Debug\net5.0\ref\GuessNum1to3.dll
+D:\Antra\C#\Antra Assignments\GuessNum1to3\obj\Debug\net5.0\GuessNum1to3.pdb
+D:\Antra\C#\Antra Assignments\GuessNum1to3\obj\Debug\net5.0\GuessNum1to3.genruntimeconfig.cache
