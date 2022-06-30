@@ -1,0 +1,16 @@
+D:\Antra\C#\Antra Assignments\Reverse Words in Sentence\bin\Debug\net5.0\Reverse Words in Sentence.exe
+D:\Antra\C#\Antra Assignments\Reverse Words in Sentence\bin\Debug\net5.0\Reverse Words in Sentence.deps.json
+D:\Antra\C#\Antra Assignments\Reverse Words in Sentence\bin\Debug\net5.0\Reverse Words in Sentence.runtimeconfig.json
+D:\Antra\C#\Antra Assignments\Reverse Words in Sentence\bin\Debug\net5.0\Reverse Words in Sentence.runtimeconfig.dev.json
+D:\Antra\C#\Antra Assignments\Reverse Words in Sentence\bin\Debug\net5.0\Reverse Words in Sentence.dll
+D:\Antra\C#\Antra Assignments\Reverse Words in Sentence\bin\Debug\net5.0\ref\Reverse Words in Sentence.dll
+D:\Antra\C#\Antra Assignments\Reverse Words in Sentence\bin\Debug\net5.0\Reverse Words in Sentence.pdb
+D:\Antra\C#\Antra Assignments\Reverse Words in Sentence\obj\Debug\net5.0\Reverse Words in Sentence.csproj.AssemblyReference.cache
+D:\Antra\C#\Antra Assignments\Reverse Words in Sentence\obj\Debug\net5.0\Reverse Words in Sentence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\C#\Antra Assignments\Reverse Words in Sentence\obj\Debug\net5.0\Reverse Words in Sentence.AssemblyInfoInputs.cache
+D:\Antra\C#\Antra Assignments\Reverse Words in Sentence\obj\Debug\net5.0\Reverse Words in Sentence.AssemblyInfo.cs
+D:\Antra\C#\Antra Assignments\Reverse Words in Sentence\obj\Debug\net5.0\Reverse Words in Sentence.csproj.CoreCompileInputs.cache
+D:\Antra\C#\Antra Assignments\Reverse Words in Sentence\obj\Debug\net5.0\Reverse Words in Sentence.dll
+D:\Antra\C#\Antra Assignments\Reverse Words in Sentence\obj\Debug\net5.0\ref\Reverse Words in Sentence.dll
+D:\Antra\C#\Antra Assignments\Reverse Words in Sentence\obj\Debug\net5.0\Reverse Words in Sentence.pdb
+D:\Antra\C#\Antra Assignments\Reverse Words in Sentence\obj\Debug\net5.0\Reverse Words in Sentence.genruntimeconfig.cache
