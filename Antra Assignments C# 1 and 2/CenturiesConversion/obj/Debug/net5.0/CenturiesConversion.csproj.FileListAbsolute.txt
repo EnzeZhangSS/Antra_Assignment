@@ -1,0 +1,16 @@
+D:\Antra\C#\Antra Assignments\CenturiesConversion\bin\Debug\net5.0\CenturiesConversion.exe
+D:\Antra\C#\Antra Assignments\CenturiesConversion\bin\Debug\net5.0\CenturiesConversion.deps.json
+D:\Antra\C#\Antra Assignments\CenturiesConversion\bin\Debug\net5.0\CenturiesConversion.runtimeconfig.json
+D:\Antra\C#\Antra Assignments\CenturiesConversion\bin\Debug\net5.0\CenturiesConversion.runtimeconfig.dev.json
+D:\Antra\C#\Antra Assignments\CenturiesConversion\bin\Debug\net5.0\CenturiesConversion.dll
+D:\Antra\C#\Antra Assignments\CenturiesConversion\bin\Debug\net5.0\ref\CenturiesConversion.dll
+D:\Antra\C#\Antra Assignments\CenturiesConversion\bin\Debug\net5.0\CenturiesConversion.pdb
+D:\Antra\C#\Antra Assignments\CenturiesConversion\obj\Debug\net5.0\CenturiesConversion.csproj.AssemblyReference.cache
+D:\Antra\C#\Antra Assignments\CenturiesConversion\obj\Debug\net5.0\CenturiesConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\C#\Antra Assignments\CenturiesConversion\obj\Debug\net5.0\CenturiesConversion.AssemblyInfoInputs.cache
+D:\Antra\C#\Antra Assignments\CenturiesConversion\obj\Debug\net5.0\CenturiesConversion.AssemblyInfo.cs
+D:\Antra\C#\Antra Assignments\CenturiesConversion\obj\Debug\net5.0\CenturiesConversion.csproj.CoreCompileInputs.cache
+D:\Antra\C#\Antra Assignments\CenturiesConversion\obj\Debug\net5.0\CenturiesConversion.dll
+D:\Antra\C#\Antra Assignments\CenturiesConversion\obj\Debug\net5.0\ref\CenturiesConversion.dll
+D:\Antra\C#\Antra Assignments\CenturiesConversion\obj\Debug\net5.0\CenturiesConversion.pdb
+D:\Antra\C#\Antra Assignments\CenturiesConversion\obj\Debug\net5.0\CenturiesConversion.genruntimeconfig.cache

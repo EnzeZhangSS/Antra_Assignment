@@ -1,0 +1,16 @@
+D:\Antra\C#\Antra Assignments\Antra Assignment 1\bin\Debug\net5.0\Antra Assignment 1.exe
+D:\Antra\C#\Antra Assignments\Antra Assignment 1\bin\Debug\net5.0\Antra Assignment 1.deps.json
+D:\Antra\C#\Antra Assignments\Antra Assignment 1\bin\Debug\net5.0\Antra Assignment 1.runtimeconfig.json
+D:\Antra\C#\Antra Assignments\Antra Assignment 1\bin\Debug\net5.0\Antra Assignment 1.runtimeconfig.dev.json
+D:\Antra\C#\Antra Assignments\Antra Assignment 1\bin\Debug\net5.0\Antra Assignment 1.dll
+D:\Antra\C#\Antra Assignments\Antra Assignment 1\bin\Debug\net5.0\ref\Antra Assignment 1.dll
+D:\Antra\C#\Antra Assignments\Antra Assignment 1\bin\Debug\net5.0\Antra Assignment 1.pdb
+D:\Antra\C#\Antra Assignments\Antra Assignment 1\obj\Debug\net5.0\Antra Assignment 1.csproj.AssemblyReference.cache
+D:\Antra\C#\Antra Assignments\Antra Assignment 1\obj\Debug\net5.0\Antra Assignment 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\C#\Antra Assignments\Antra Assignment 1\obj\Debug\net5.0\Antra Assignment 1.AssemblyInfoInputs.cache
+D:\Antra\C#\Antra Assignments\Antra Assignment 1\obj\Debug\net5.0\Antra Assignment 1.AssemblyInfo.cs
+D:\Antra\C#\Antra Assignments\Antra Assignment 1\obj\Debug\net5.0\Antra Assignment 1.csproj.CoreCompileInputs.cache
+D:\Antra\C#\Antra Assignments\Antra Assignment 1\obj\Debug\net5.0\Antra Assignment 1.dll
+D:\Antra\C#\Antra Assignments\Antra Assignment 1\obj\Debug\net5.0\ref\Antra Assignment 1.dll
+D:\Antra\C#\Antra Assignments\Antra Assignment 1\obj\Debug\net5.0\Antra Assignment 1.pdb
+D:\Antra\C#\Antra Assignments\Antra Assignment 1\obj\Debug\net5.0\Antra Assignment 1.genruntimeconfig.cache

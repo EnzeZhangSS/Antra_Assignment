@@ -1,0 +1,16 @@
+D:\Antra\C#\Antra Assignments\BrithdateCalc\bin\Debug\net5.0\BrithdateCalc.exe
+D:\Antra\C#\Antra Assignments\BrithdateCalc\bin\Debug\net5.0\BrithdateCalc.deps.json
+D:\Antra\C#\Antra Assignments\BrithdateCalc\bin\Debug\net5.0\BrithdateCalc.runtimeconfig.json
+D:\Antra\C#\Antra Assignments\BrithdateCalc\bin\Debug\net5.0\BrithdateCalc.runtimeconfig.dev.json
+D:\Antra\C#\Antra Assignments\BrithdateCalc\bin\Debug\net5.0\BrithdateCalc.dll
+D:\Antra\C#\Antra Assignments\BrithdateCalc\bin\Debug\net5.0\ref\BrithdateCalc.dll
+D:\Antra\C#\Antra Assignments\BrithdateCalc\bin\Debug\net5.0\BrithdateCalc.pdb
+D:\Antra\C#\Antra Assignments\BrithdateCalc\obj\Debug\net5.0\BrithdateCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\C#\Antra Assignments\BrithdateCalc\obj\Debug\net5.0\BrithdateCalc.AssemblyInfoInputs.cache
+D:\Antra\C#\Antra Assignments\BrithdateCalc\obj\Debug\net5.0\BrithdateCalc.AssemblyInfo.cs
+D:\Antra\C#\Antra Assignments\BrithdateCalc\obj\Debug\net5.0\BrithdateCalc.csproj.CoreCompileInputs.cache
+D:\Antra\C#\Antra Assignments\BrithdateCalc\obj\Debug\net5.0\BrithdateCalc.dll
+D:\Antra\C#\Antra Assignments\BrithdateCalc\obj\Debug\net5.0\ref\BrithdateCalc.dll
+D:\Antra\C#\Antra Assignments\BrithdateCalc\obj\Debug\net5.0\BrithdateCalc.pdb
+D:\Antra\C#\Antra Assignments\BrithdateCalc\obj\Debug\net5.0\BrithdateCalc.genruntimeconfig.cache
+D:\Antra\C#\Antra Assignments\BrithdateCalc\obj\Debug\net5.0\BrithdateCalc.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+D:\Antra\C#\Antra Assignments\02UnderstandingTypes\bin\Debug\net5.0\02UnderstandingTypes.exe
+D:\Antra\C#\Antra Assignments\02UnderstandingTypes\bin\Debug\net5.0\02UnderstandingTypes.deps.json
+D:\Antra\C#\Antra Assignments\02UnderstandingTypes\bin\Debug\net5.0\02UnderstandingTypes.runtimeconfig.json
+D:\Antra\C#\Antra Assignments\02UnderstandingTypes\bin\Debug\net5.0\02UnderstandingTypes.runtimeconfig.dev.json
+D:\Antra\C#\Antra Assignments\02UnderstandingTypes\bin\Debug\net5.0\02UnderstandingTypes.dll
+D:\Antra\C#\Antra Assignments\02UnderstandingTypes\bin\Debug\net5.0\ref\02UnderstandingTypes.dll
+D:\Antra\C#\Antra Assignments\02UnderstandingTypes\bin\Debug\net5.0\02UnderstandingTypes.pdb
+D:\Antra\C#\Antra Assignments\02UnderstandingTypes\obj\Debug\net5.0\02UnderstandingTypes.csproj.AssemblyReference.cache
+D:\Antra\C#\Antra Assignments\02UnderstandingTypes\obj\Debug\net5.0\02UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\C#\Antra Assignments\02UnderstandingTypes\obj\Debug\net5.0\02UnderstandingTypes.AssemblyInfoInputs.cache
+D:\Antra\C#\Antra Assignments\02UnderstandingTypes\obj\Debug\net5.0\02UnderstandingTypes.AssemblyInfo.cs
+D:\Antra\C#\Antra Assignments\02UnderstandingTypes\obj\Debug\net5.0\02UnderstandingTypes.csproj.CoreCompileInputs.cache
+D:\Antra\C#\Antra Assignments\02UnderstandingTypes\obj\Debug\net5.0\02UnderstandingTypes.dll
+D:\Antra\C#\Antra Assignments\02UnderstandingTypes\obj\Debug\net5.0\ref\02UnderstandingTypes.dll
+D:\Antra\C#\Antra Assignments\02UnderstandingTypes\obj\Debug\net5.0\02UnderstandingTypes.pdb
+D:\Antra\C#\Antra Assignments\02UnderstandingTypes\obj\Debug\net5.0\02UnderstandingTypes.genruntimeconfig.cache

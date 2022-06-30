@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CenturiesConversion/1.0.0": {
+        "runtime": {
+          "CenturiesConversion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CenturiesConversion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
