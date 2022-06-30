@@ -1,0 +1,15 @@
+D:\Antra\C#\Antra Assignments\PrintAPyramid\bin\Debug\net5.0\PrintAPyramid.exe
+D:\Antra\C#\Antra Assignments\PrintAPyramid\bin\Debug\net5.0\PrintAPyramid.deps.json
+D:\Antra\C#\Antra Assignments\PrintAPyramid\bin\Debug\net5.0\PrintAPyramid.runtimeconfig.json
+D:\Antra\C#\Antra Assignments\PrintAPyramid\bin\Debug\net5.0\PrintAPyramid.runtimeconfig.dev.json
+D:\Antra\C#\Antra Assignments\PrintAPyramid\bin\Debug\net5.0\PrintAPyramid.dll
+D:\Antra\C#\Antra Assignments\PrintAPyramid\bin\Debug\net5.0\ref\PrintAPyramid.dll
+D:\Antra\C#\Antra Assignments\PrintAPyramid\bin\Debug\net5.0\PrintAPyramid.pdb
+D:\Antra\C#\Antra Assignments\PrintAPyramid\obj\Debug\net5.0\PrintAPyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\C#\Antra Assignments\PrintAPyramid\obj\Debug\net5.0\PrintAPyramid.AssemblyInfoInputs.cache
+D:\Antra\C#\Antra Assignments\PrintAPyramid\obj\Debug\net5.0\PrintAPyramid.AssemblyInfo.cs
+D:\Antra\C#\Antra Assignments\PrintAPyramid\obj\Debug\net5.0\PrintAPyramid.csproj.CoreCompileInputs.cache
+D:\Antra\C#\Antra Assignments\PrintAPyramid\obj\Debug\net5.0\PrintAPyramid.dll
+D:\Antra\C#\Antra Assignments\PrintAPyramid\obj\Debug\net5.0\ref\PrintAPyramid.dll
+D:\Antra\C#\Antra Assignments\PrintAPyramid\obj\Debug\net5.0\PrintAPyramid.pdb
+D:\Antra\C#\Antra Assignments\PrintAPyramid\obj\Debug\net5.0\PrintAPyramid.genruntimeconfig.cache
