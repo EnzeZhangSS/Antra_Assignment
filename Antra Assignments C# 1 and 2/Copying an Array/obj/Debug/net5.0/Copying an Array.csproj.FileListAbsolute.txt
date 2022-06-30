@@ -1,0 +1,15 @@
+D:\Antra\C#\Antra Assignments\Copying an Array\bin\Debug\net5.0\Copying an Array.exe
+D:\Antra\C#\Antra Assignments\Copying an Array\bin\Debug\net5.0\Copying an Array.deps.json
+D:\Antra\C#\Antra Assignments\Copying an Array\bin\Debug\net5.0\Copying an Array.runtimeconfig.json
+D:\Antra\C#\Antra Assignments\Copying an Array\bin\Debug\net5.0\Copying an Array.runtimeconfig.dev.json
+D:\Antra\C#\Antra Assignments\Copying an Array\bin\Debug\net5.0\Copying an Array.dll
+D:\Antra\C#\Antra Assignments\Copying an Array\bin\Debug\net5.0\ref\Copying an Array.dll
+D:\Antra\C#\Antra Assignments\Copying an Array\bin\Debug\net5.0\Copying an Array.pdb
+D:\Antra\C#\Antra Assignments\Copying an Array\obj\Debug\net5.0\Copying an Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\C#\Antra Assignments\Copying an Array\obj\Debug\net5.0\Copying an Array.AssemblyInfoInputs.cache
+D:\Antra\C#\Antra Assignments\Copying an Array\obj\Debug\net5.0\Copying an Array.AssemblyInfo.cs
+D:\Antra\C#\Antra Assignments\Copying an Array\obj\Debug\net5.0\Copying an Array.csproj.CoreCompileInputs.cache
+D:\Antra\C#\Antra Assignments\Copying an Array\obj\Debug\net5.0\Copying an Array.dll
+D:\Antra\C#\Antra Assignments\Copying an Array\obj\Debug\net5.0\ref\Copying an Array.dll
+D:\Antra\C#\Antra Assignments\Copying an Array\obj\Debug\net5.0\Copying an Array.pdb
+D:\Antra\C#\Antra Assignments\Copying an Array\obj\Debug\net5.0\Copying an Array.genruntimeconfig.cache

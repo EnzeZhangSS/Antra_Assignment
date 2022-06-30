@@ -1,0 +1,15 @@
+D:\Antra\C#\Antra Assignments\Counting24\bin\Debug\net5.0\Counting24.exe
+D:\Antra\C#\Antra Assignments\Counting24\bin\Debug\net5.0\Counting24.deps.json
+D:\Antra\C#\Antra Assignments\Counting24\bin\Debug\net5.0\Counting24.runtimeconfig.json
+D:\Antra\C#\Antra Assignments\Counting24\bin\Debug\net5.0\Counting24.runtimeconfig.dev.json
+D:\Antra\C#\Antra Assignments\Counting24\bin\Debug\net5.0\Counting24.dll
+D:\Antra\C#\Antra Assignments\Counting24\bin\Debug\net5.0\ref\Counting24.dll
+D:\Antra\C#\Antra Assignments\Counting24\bin\Debug\net5.0\Counting24.pdb
+D:\Antra\C#\Antra Assignments\Counting24\obj\Debug\net5.0\Counting24.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\C#\Antra Assignments\Counting24\obj\Debug\net5.0\Counting24.AssemblyInfoInputs.cache
+D:\Antra\C#\Antra Assignments\Counting24\obj\Debug\net5.0\Counting24.AssemblyInfo.cs
+D:\Antra\C#\Antra Assignments\Counting24\obj\Debug\net5.0\Counting24.csproj.CoreCompileInputs.cache
+D:\Antra\C#\Antra Assignments\Counting24\obj\Debug\net5.0\Counting24.dll
+D:\Antra\C#\Antra Assignments\Counting24\obj\Debug\net5.0\ref\Counting24.dll
+D:\Antra\C#\Antra Assignments\Counting24\obj\Debug\net5.0\Counting24.pdb
+D:\Antra\C#\Antra Assignments\Counting24\obj\Debug\net5.0\Counting24.genruntimeconfig.cache
