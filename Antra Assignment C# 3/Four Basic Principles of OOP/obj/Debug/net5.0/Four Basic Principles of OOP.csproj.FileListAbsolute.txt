@@ -1,0 +1,16 @@
+D:\Antra\C#\Antra Assignment 3\Four Basic Principles of OOP\bin\Debug\net5.0\Four Basic Principles of OOP.exe
+D:\Antra\C#\Antra Assignment 3\Four Basic Principles of OOP\bin\Debug\net5.0\Four Basic Principles of OOP.deps.json
+D:\Antra\C#\Antra Assignment 3\Four Basic Principles of OOP\bin\Debug\net5.0\Four Basic Principles of OOP.runtimeconfig.json
+D:\Antra\C#\Antra Assignment 3\Four Basic Principles of OOP\bin\Debug\net5.0\Four Basic Principles of OOP.runtimeconfig.dev.json
+D:\Antra\C#\Antra Assignment 3\Four Basic Principles of OOP\bin\Debug\net5.0\Four Basic Principles of OOP.dll
+D:\Antra\C#\Antra Assignment 3\Four Basic Principles of OOP\bin\Debug\net5.0\ref\Four Basic Principles of OOP.dll
+D:\Antra\C#\Antra Assignment 3\Four Basic Principles of OOP\bin\Debug\net5.0\Four Basic Principles of OOP.pdb
+D:\Antra\C#\Antra Assignment 3\Four Basic Principles of OOP\obj\Debug\net5.0\Four Basic Principles of OOP.csproj.AssemblyReference.cache
+D:\Antra\C#\Antra Assignment 3\Four Basic Principles of OOP\obj\Debug\net5.0\Four Basic Principles of OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\C#\Antra Assignment 3\Four Basic Principles of OOP\obj\Debug\net5.0\Four Basic Principles of OOP.AssemblyInfoInputs.cache
+D:\Antra\C#\Antra Assignment 3\Four Basic Principles of OOP\obj\Debug\net5.0\Four Basic Principles of OOP.AssemblyInfo.cs
+D:\Antra\C#\Antra Assignment 3\Four Basic Principles of OOP\obj\Debug\net5.0\Four Basic Principles of OOP.csproj.CoreCompileInputs.cache
+D:\Antra\C#\Antra Assignment 3\Four Basic Principles of OOP\obj\Debug\net5.0\Four Basic Principles of OOP.dll
+D:\Antra\C#\Antra Assignment 3\Four Basic Principles of OOP\obj\Debug\net5.0\ref\Four Basic Principles of OOP.dll
+D:\Antra\C#\Antra Assignment 3\Four Basic Principles of OOP\obj\Debug\net5.0\Four Basic Principles of OOP.pdb
+D:\Antra\C#\Antra Assignment 3\Four Basic Principles of OOP\obj\Debug\net5.0\Four Basic Principles of OOP.genruntimeconfig.cache
