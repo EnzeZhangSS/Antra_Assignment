@@ -1,0 +1,16 @@
+D:\Antra\C#\Antra Assignment 3\Reverse Array\bin\Debug\net5.0\Reverse Array.exe
+D:\Antra\C#\Antra Assignment 3\Reverse Array\bin\Debug\net5.0\Reverse Array.deps.json
+D:\Antra\C#\Antra Assignment 3\Reverse Array\bin\Debug\net5.0\Reverse Array.runtimeconfig.json
+D:\Antra\C#\Antra Assignment 3\Reverse Array\bin\Debug\net5.0\Reverse Array.runtimeconfig.dev.json
+D:\Antra\C#\Antra Assignment 3\Reverse Array\bin\Debug\net5.0\Reverse Array.dll
+D:\Antra\C#\Antra Assignment 3\Reverse Array\bin\Debug\net5.0\ref\Reverse Array.dll
+D:\Antra\C#\Antra Assignment 3\Reverse Array\bin\Debug\net5.0\Reverse Array.pdb
+D:\Antra\C#\Antra Assignment 3\Reverse Array\obj\Debug\net5.0\Reverse Array.csproj.AssemblyReference.cache
+D:\Antra\C#\Antra Assignment 3\Reverse Array\obj\Debug\net5.0\Reverse Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\C#\Antra Assignment 3\Reverse Array\obj\Debug\net5.0\Reverse Array.AssemblyInfoInputs.cache
+D:\Antra\C#\Antra Assignment 3\Reverse Array\obj\Debug\net5.0\Reverse Array.AssemblyInfo.cs
+D:\Antra\C#\Antra Assignment 3\Reverse Array\obj\Debug\net5.0\Reverse Array.csproj.CoreCompileInputs.cache
+D:\Antra\C#\Antra Assignment 3\Reverse Array\obj\Debug\net5.0\Reverse Array.dll
+D:\Antra\C#\Antra Assignment 3\Reverse Array\obj\Debug\net5.0\ref\Reverse Array.dll
+D:\Antra\C#\Antra Assignment 3\Reverse Array\obj\Debug\net5.0\Reverse Array.pdb
+D:\Antra\C#\Antra Assignment 3\Reverse Array\obj\Debug\net5.0\Reverse Array.genruntimeconfig.cache
