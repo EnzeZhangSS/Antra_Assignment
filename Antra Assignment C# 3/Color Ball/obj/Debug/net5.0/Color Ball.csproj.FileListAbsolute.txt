@@ -1,0 +1,16 @@
+D:\Antra\C#\Antra Assignment 3\Color Ball\bin\Debug\net5.0\Color Ball.exe
+D:\Antra\C#\Antra Assignment 3\Color Ball\bin\Debug\net5.0\Color Ball.deps.json
+D:\Antra\C#\Antra Assignment 3\Color Ball\bin\Debug\net5.0\Color Ball.runtimeconfig.json
+D:\Antra\C#\Antra Assignment 3\Color Ball\bin\Debug\net5.0\Color Ball.runtimeconfig.dev.json
+D:\Antra\C#\Antra Assignment 3\Color Ball\bin\Debug\net5.0\Color Ball.dll
+D:\Antra\C#\Antra Assignment 3\Color Ball\bin\Debug\net5.0\ref\Color Ball.dll
+D:\Antra\C#\Antra Assignment 3\Color Ball\bin\Debug\net5.0\Color Ball.pdb
+D:\Antra\C#\Antra Assignment 3\Color Ball\obj\Debug\net5.0\Color Ball.csproj.AssemblyReference.cache
+D:\Antra\C#\Antra Assignment 3\Color Ball\obj\Debug\net5.0\Color Ball.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\C#\Antra Assignment 3\Color Ball\obj\Debug\net5.0\Color Ball.AssemblyInfoInputs.cache
+D:\Antra\C#\Antra Assignment 3\Color Ball\obj\Debug\net5.0\Color Ball.AssemblyInfo.cs
+D:\Antra\C#\Antra Assignment 3\Color Ball\obj\Debug\net5.0\Color Ball.csproj.CoreCompileInputs.cache
+D:\Antra\C#\Antra Assignment 3\Color Ball\obj\Debug\net5.0\Color Ball.dll
+D:\Antra\C#\Antra Assignment 3\Color Ball\obj\Debug\net5.0\ref\Color Ball.dll
+D:\Antra\C#\Antra Assignment 3\Color Ball\obj\Debug\net5.0\Color Ball.pdb
+D:\Antra\C#\Antra Assignment 3\Color Ball\obj\Debug\net5.0\Color Ball.genruntimeconfig.cache
