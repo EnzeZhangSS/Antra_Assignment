@@ -1,0 +1,16 @@
+D:\Antra\C#\Antra Assignment 4\Generic Repository\obj\Debug\net5.0\Generic Repository.csproj.AssemblyReference.cache
+D:\Antra\C#\Antra Assignment 4\Generic Repository\obj\Debug\net5.0\Generic Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\C#\Antra Assignment 4\Generic Repository\obj\Debug\net5.0\Generic Repository.AssemblyInfoInputs.cache
+D:\Antra\C#\Antra Assignment 4\Generic Repository\obj\Debug\net5.0\Generic Repository.AssemblyInfo.cs
+D:\Antra\C#\Antra Assignment 4\Generic Repository\obj\Debug\net5.0\Generic Repository.csproj.CoreCompileInputs.cache
+D:\Antra\C#\Antra Assignment 4\Generic Repository\bin\Debug\net5.0\Generic Repository.exe
+D:\Antra\C#\Antra Assignment 4\Generic Repository\bin\Debug\net5.0\Generic Repository.deps.json
+D:\Antra\C#\Antra Assignment 4\Generic Repository\bin\Debug\net5.0\Generic Repository.runtimeconfig.json
+D:\Antra\C#\Antra Assignment 4\Generic Repository\bin\Debug\net5.0\Generic Repository.runtimeconfig.dev.json
+D:\Antra\C#\Antra Assignment 4\Generic Repository\bin\Debug\net5.0\Generic Repository.dll
+D:\Antra\C#\Antra Assignment 4\Generic Repository\bin\Debug\net5.0\ref\Generic Repository.dll
+D:\Antra\C#\Antra Assignment 4\Generic Repository\bin\Debug\net5.0\Generic Repository.pdb
+D:\Antra\C#\Antra Assignment 4\Generic Repository\obj\Debug\net5.0\Generic Repository.dll
+D:\Antra\C#\Antra Assignment 4\Generic Repository\obj\Debug\net5.0\ref\Generic Repository.dll
+D:\Antra\C#\Antra Assignment 4\Generic Repository\obj\Debug\net5.0\Generic Repository.pdb
+D:\Antra\C#\Antra Assignment 4\Generic Repository\obj\Debug\net5.0\Generic Repository.genruntimeconfig.cache

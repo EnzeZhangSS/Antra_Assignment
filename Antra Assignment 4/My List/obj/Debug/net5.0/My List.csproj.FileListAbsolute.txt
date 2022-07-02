@@ -1,0 +1,16 @@
+D:\Antra\C#\Antra Assignment 4\My List\bin\Debug\net5.0\My List.exe
+D:\Antra\C#\Antra Assignment 4\My List\bin\Debug\net5.0\My List.deps.json
+D:\Antra\C#\Antra Assignment 4\My List\bin\Debug\net5.0\My List.runtimeconfig.json
+D:\Antra\C#\Antra Assignment 4\My List\bin\Debug\net5.0\My List.runtimeconfig.dev.json
+D:\Antra\C#\Antra Assignment 4\My List\bin\Debug\net5.0\My List.dll
+D:\Antra\C#\Antra Assignment 4\My List\bin\Debug\net5.0\ref\My List.dll
+D:\Antra\C#\Antra Assignment 4\My List\bin\Debug\net5.0\My List.pdb
+D:\Antra\C#\Antra Assignment 4\My List\obj\Debug\net5.0\My List.csproj.AssemblyReference.cache
+D:\Antra\C#\Antra Assignment 4\My List\obj\Debug\net5.0\My List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\C#\Antra Assignment 4\My List\obj\Debug\net5.0\My List.AssemblyInfoInputs.cache
+D:\Antra\C#\Antra Assignment 4\My List\obj\Debug\net5.0\My List.AssemblyInfo.cs
+D:\Antra\C#\Antra Assignment 4\My List\obj\Debug\net5.0\My List.csproj.CoreCompileInputs.cache
+D:\Antra\C#\Antra Assignment 4\My List\obj\Debug\net5.0\My List.dll
+D:\Antra\C#\Antra Assignment 4\My List\obj\Debug\net5.0\ref\My List.dll
+D:\Antra\C#\Antra Assignment 4\My List\obj\Debug\net5.0\My List.pdb
+D:\Antra\C#\Antra Assignment 4\My List\obj\Debug\net5.0\My List.genruntimeconfig.cache

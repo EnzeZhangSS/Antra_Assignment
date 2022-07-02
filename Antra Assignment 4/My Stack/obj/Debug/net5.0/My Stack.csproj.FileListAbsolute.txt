@@ -1,0 +1,16 @@
+D:\Antra\C#\Antra Assignment 4\My Stack\bin\Debug\net5.0\My Stack.exe
+D:\Antra\C#\Antra Assignment 4\My Stack\bin\Debug\net5.0\My Stack.deps.json
+D:\Antra\C#\Antra Assignment 4\My Stack\bin\Debug\net5.0\My Stack.runtimeconfig.json
+D:\Antra\C#\Antra Assignment 4\My Stack\bin\Debug\net5.0\My Stack.runtimeconfig.dev.json
+D:\Antra\C#\Antra Assignment 4\My Stack\bin\Debug\net5.0\My Stack.dll
+D:\Antra\C#\Antra Assignment 4\My Stack\bin\Debug\net5.0\ref\My Stack.dll
+D:\Antra\C#\Antra Assignment 4\My Stack\bin\Debug\net5.0\My Stack.pdb
+D:\Antra\C#\Antra Assignment 4\My Stack\obj\Debug\net5.0\My Stack.csproj.AssemblyReference.cache
+D:\Antra\C#\Antra Assignment 4\My Stack\obj\Debug\net5.0\My Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\C#\Antra Assignment 4\My Stack\obj\Debug\net5.0\My Stack.AssemblyInfoInputs.cache
+D:\Antra\C#\Antra Assignment 4\My Stack\obj\Debug\net5.0\My Stack.AssemblyInfo.cs
+D:\Antra\C#\Antra Assignment 4\My Stack\obj\Debug\net5.0\My Stack.csproj.CoreCompileInputs.cache
+D:\Antra\C#\Antra Assignment 4\My Stack\obj\Debug\net5.0\My Stack.dll
+D:\Antra\C#\Antra Assignment 4\My Stack\obj\Debug\net5.0\ref\My Stack.dll
+D:\Antra\C#\Antra Assignment 4\My Stack\obj\Debug\net5.0\My Stack.pdb
+D:\Antra\C#\Antra Assignment 4\My Stack\obj\Debug\net5.0\My Stack.genruntimeconfig.cache
