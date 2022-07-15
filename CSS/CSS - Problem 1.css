@@ -1,0 +1,73 @@
+nav{
+    background-color:rgb(56, 213, 213);
+    width: 100%;
+    height: 6em;
+    padding-left: 10%;
+    padding-bottom: 1em;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.ALOGO{
+    width: 10em;
+    height: 3em;
+    display: inline-block;
+    background-color: aliceblue;
+}
+.THead{
+    display: inline-block;
+    padding-left: 2em;
+    color: white;
+    font-size: 1.5em;
+    text-decoration: none;
+    
+}
+a:link{
+    color: white;
+    text-decoration: none;
+}
+a:visited{
+    color: white;
+}
+a:hover{
+    color: rgb(0, 153, 255);
+}
+.dropdown{
+    display: inline-block;
+    position: relative;
+}
+.dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: rgb(17, 226, 226);
+    width: auto;
+    padding: 0.5em;
+    z-index: 1;
+    white-space: nowrap;
+}
+.dropdown-content a{
+    display: block;
+}
+.dropdown-content a:hover{
+    color: rgb(0, 153, 255);
+}
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+form.search input{
+    padding: 10px;
+    font-size: 17px;
+
+}
+form.search button{
+    float: right;
+    height: 2.5em;
+    font-size: 17px;
+    color: blue;
+    cursor: pointer;
+}
+form.search::after{
+    content: "";
+    clear: both;
+    display: table;
+}
