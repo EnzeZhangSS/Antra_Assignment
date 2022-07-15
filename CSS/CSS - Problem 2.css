@@ -1,0 +1,96 @@
+.footer{
+    position: absolute;
+    margin: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(56, 56, 56);
+    color: rgb(217, 217, 217);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.FH{
+    width: 100%;
+    height: 3em;
+    float: left;
+}
+
+.F1{
+    width: 30%;
+    float: left;
+    height: 23m;
+    color: rgb(180, 178, 178);
+    text-indent: 8em;
+}
+.F2{
+    width: 20%;
+    float: left;
+    height: 23em;
+}
+.F3{
+    width: 20%;
+    float: left;
+    height: 23em;
+}
+.F4{
+    width: 30%;
+    float: left;
+    height: 23em;
+}
+.FB{
+    width: 100%;
+    height: 3.5em;
+    float: left;
+    background-color: black;
+}
+.FB1{
+    width: 50%;
+    float: left;
+    text-indent: 10em;
+}
+.FB2{
+    width: 35%;
+    float: left;
+    word-spacing: 1em;
+    padding-top: 1em;
+    padding-right: 15%;
+    text-align: right;
+}
+.menu-head{
+    text-indent: 2em;
+}
+.menu-list{
+    list-style: none;
+}
+a:link{
+    color: white;
+    text-decoration: none;
+}
+
+a:visited{
+    color: white;
+}
+a:active{
+    color: rgb(209, 208, 208);
+}
+.F2 a:hover{
+    color: rgb(209, 208, 208);
+}
+.F3 a:hover{
+    color: rgb(209, 208, 208);
+}
+hr{
+    border: none;
+    height: 1px;
+    background-color: rgb(80, 80, 80);
+}
+#Locations{
+    position: relative;
+    left: 35px;
+}
+.SocialIcon{
+    background-color: black;
+    color: white;
+}
+.SocialIcon:hover{
+    color: rgb(0, 183, 255);
+}
