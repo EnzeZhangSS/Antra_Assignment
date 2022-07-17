@@ -1,0 +1,96 @@
+html{
+    background-color: rgb(230, 230, 230);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ttl{
+    width: 100%;
+    height: 2em;
+    color: rgb(2, 182, 206);
+    display: table;
+    text-indent: 10%;
+    line-height: 2em;
+    font-size: 1.5em;
+}
+.Bbox{
+    height: 30em;
+    width: 100%;
+}
+.SideSpacing{
+    float: left;
+    height: 30em;
+    width: 10%;
+}
+.MiddleSpacing{
+    float: left;
+    height: 30em;
+    width: 2.5%;
+}
+.box{
+    float: left;
+    height: 30em;
+    width: 25%;
+    background-color: white;
+    box-shadow: 2px 2px rgb(199, 199, 199);;
+}
+.Btitle{
+    width: 90%;
+    height: 14%;
+    font-size: 1.3em;
+    padding: 5% 5% 1%;
+}
+.Btitle a:link{
+    text-decoration: none;
+    color: rgb(127, 178, 255);
+}
+.Btitle a:visited{
+    color: rgb(127, 178, 255);
+}
+.Bdate{
+    width: 80%;
+    height: 8%;
+    text-align: right;
+    padding: 0% 10%;
+    color: rgb(188, 188, 188);
+}
+.Bhr{
+    width: 90%;
+    height: 1%;
+    padding: 0% 5%;
+}
+.Bhr hr{
+    border: none;
+    height: 1px;
+    background-color: rgb(215, 215, 215);
+}
+.BimgBox{
+    width: 90%;
+    height: 48%;
+    padding: 0% 5%;
+}
+.Bimg{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.Bdesc{
+    width: 90%;
+    height: 16%;
+    padding: 2% 5%;
+}
+.PagingBar{
+    width: 85%;
+    height: 4em;
+    padding: 2em 7.5%;
+}
+.PagingList{
+    list-style: none;
+}
+.PagingList li{
+    display: inline-block;
+}
+.PagingList button{
+    color: orange;
+    background-color: aquamarine;
+    border-color: aquamarine;
+}
